@@ -6,7 +6,7 @@
 
 ## 💫 About Me:
 - 😄 Pronouns: He/ His
-- 📫 How to reach me **saitejagoli111@gmail.com**
+- 📫 How to reach me **bharathgovindula@gmail.com**
 
 ## 💻 Tech Stack:
 
@@ -26,15 +26,15 @@
 
 
 ### Connect with me :
-<a href="https://linkedin.com/in/saiteja-goli-7655a0201" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px"></a>
-<a href="https://www.instagram.com/sai_tej_0407" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="110px"></a>
+<a href="https://www.linkedin.com/in/bharath-govindula/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px"></a>
+<a href="https://www.instagram.com/bharath_rajzz?igsh=Z2xuM21rdmQ3bG54" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="110px"></a>
 <br>
 <br>
 
 ## 📊 GitHub Stats:
 <p align="center">
 <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saiteja-Goli&count_private=true&show_icons=true&theme=tokyonight"/> -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saiteja-Goli&show_icons=true&locale=en&theme=radical"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=BharathGovindula&show_icons=true&locale=en&theme=radical"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saiteja-Goli&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BharathGovindula&theme=tokyonight"/>
 </p></br>
