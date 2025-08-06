@@ -6,7 +6,7 @@
 ## 💫 About Me:
 - 😄 Pronouns: He/ His
 - 👨‍💻 See my Portfolio here [Portfolio](https://portpolio-cyan.vercel.app/)
-- 📄 Know more about me [Resume](https://drive.google.com/file/d/1AoboSRZv-0xv76JkGJ1Ah9H5eR0MBOE-/view?usp=drive_link)
+- 📄 Know more about me [Resume](https://drive.google.com/file/d/1C3_8tWs6vEHDl4yOgvktf7S5Tk81lX7z/view?usp=sharing)
 - 📫 Reach me at **bharathgovindula@gmail.com**
 
 ## 💻 Tech Stack:
